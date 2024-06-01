@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalbarhate" alt="kaushalbarhate" /></a> </p>
 
-- 🔭 I’m currently working on [a web-based AI image generator leveraging stable diffusion models to generate unique and artistic images.](aiblocks.app)
+- 🔭 I’m currently working on a web-based AI image generator [AiBlocks](aiblocks.app) leveraging stable diffusion models to generate unique and artistic images.
 
 - 🌱 I’m currently learning **advanced techniques in distributed computing and machine learning, focusing on efficiency and scalability. I'm always updating my skills to include the latest in AI and software engineering.**
 
-- 👨‍💻 All of my projects are available at [kaushalbarhate.vercel.app/](kaushalbarhate.vercel.app/)
+- 👨‍💻 All of my projects are available [here](kaushalbarhate.vercel.app/)
 
 - 💬 Ask me about **scalable architecture for AI systems, or integrating AI with different technologies. I’m also well-versed in JavaScript, Python, and Node.js**
 
 - 📫 How to reach me **barhate.kaushal@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com/file/d/1TECDe9I3sFTFqvhGGZFpIKr5BHtZ2-jJ/view](drive.google.com/file/d/1TECDe9I3sFTFqvhGGZFpIKr5BHtZ2-jJ/view)
+- 📄 Know about my experiences [resume](drive.google.com/file/d/1TECDe9I3sFTFqvhGGZFpIKr5BHtZ2-jJ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
